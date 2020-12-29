@@ -44,6 +44,6 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 # About this proyect
-This code is based on André Castelo's [proyect](https://www.toptal.com/laravel/restful-laravel-api-tutorial).
+This code is based on André Castelo's [project](https://www.toptal.com/laravel/restful-laravel-api-tutorial).
 
 So, I'm just learning how to use Laravel as an API.
