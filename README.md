@@ -47,3 +47,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 This code is based on André Castelo's [project](https://www.toptal.com/laravel/restful-laravel-api-tutorial).
 
 So, I'm just learning how to use Laravel as an API.
+
+# References
+- [Cómo instalar y utilizar Composer en Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/como-instalar-y-utilizar-composer-en-ubuntu-18-04-es)
+- [Install composer](https://getcomposer.org/download/)
